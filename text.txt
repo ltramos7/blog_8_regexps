@@ -1,0 +1,25 @@
+Characters:
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+Lol LolLolLol
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+chickens.com
+
+\d{3}[.-]\d{3}[.-]\d{4} - American
+ 
+\d{2}[.-]?  - French 
+
+21-22-43-23-44
+94.32.35.65.73
+
+22.33.44.12.1226
+
+312-555-9876
+213.555.6789
+
+
